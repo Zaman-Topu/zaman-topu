@@ -1,42 +1,90 @@
-<h1 align="center">Hi 👋, I'm Toufique Zaman Topu</h1>
-<h3 align="center">A passionate Ethical Hacker, Tech Blogger & Frontend Developer.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaman-topu&label=Profile%20views&color=0e75b6&style=flat" alt="zaman-topu" /> </p>
+  <h1>Hi there, I'm Toufique <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaman-topu" alt="zaman-topu" /></a> </p>
+  <h3>High School Student | Aspiring Security Researcher | Ethical Hacker</h3>
 
-- 🔭 I’m currently working on [Bug Mohol (Cyber Security Blog) & OSINT Tools](https://www.bugmohol.com/)
+  <p>
+    <em>"Exploring the digital frontier, one packet at a time."</em>
+  </p>
 
-- 🌱 I’m currently learning **Cloud Security, Next.js, and Python for Automation**
+  <p>
+    <a href="https://www.bugmohol.com">
+      <img src="https://img.shields.io/badge/Website-Bug%20Mohol-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    </a>
+    <a href="mailto:contact@bugmohol.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+</div>
 
-- 👯 I’m looking to collaborate on **Open Source Security Projects & Web App Pentesting**
+---
 
-- 🤝 I’m looking for help with **Advanced Malware Analysis & AI in Cyber Security**
+### 🛡️ About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/zaman-topu](https://github.com/zaman-topu)
+I am a **High School Student** based in Bangladesh with a deep passion for **Cybersecurity** and **Information Security**. Unlike traditional developers, my focus lies in understanding how systems break to help secure them better. 
 
-- 📝 I regularly write articles on [https://www.bugmohol.com/](https://www.bugmohol.com/)
+I am currently in the **learning phase**, actively studying **Penetration Testing**, **Network Security**, and **Web Application Security**. I believe in **Responsible Disclosure** and adhering to strict ethical guidelines in all my research.
 
-- 💬 Ask me about **Ethical Hacking, OSINT, Termux, Linux & Web Dev**
+- 🔭 I’m currently working on: **Building my foundational knowledge in Network Defense & OWASP Top 10.**
+- 🌱 I’m currently learning: **Python for Security, Bash Scripting, and Linux Administration.**
+- 🎯 Goals: **To become a Certified Penetration Tester and contribute to Open Source Security tools.**
+- ⚡ Fun fact: **I treat every error log as a clue to a puzzle.**
 
-- 📫 How to reach me **topu7252@gmail.com**
+---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 🌐 Founder of Bug Mohol
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/@bugmohol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@bugmohol" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@bugmohol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bugmohol" height="30" width="40" /></a>
-<a href="/https://feeds.feedburner.com/bugmohol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://feeds.feedburner.com/bugmohol" height="30" width="40" /></a>
-</p>
+I founded and maintain **[Bug Mohol](https://www.bugmohol.com)**, a platform dedicated to demystifying cybersecurity.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+> **Mission:** To bridge the gap between complex security concepts and the general public through educational content, awareness posts, and ethical hacking resources in Bangla.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaman-topu&show_icons=true&locale=en&layout=compact" alt="zaman-topu" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaman-topu&show_icons=true&locale=en" alt="zaman-topu" /></p>
+### 🛠️ Technical Arsenal (Learning & Practicing)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaman-topu&" alt="zaman-topu" /></p>
+_As a learner, I am constantly exploring and practicing with these technologies in controlled lab environments (CTFs, TryHackMe, HackTheBox)._
+
+| **Category** | **Tools & Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **OS** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) |
+| **Security Tools** | `Burp Suite` `Nmap` `Metasploit` `Wireshark` `SQLmap` |
+| **Interests** | Web App Pentesting, OSINT, Digital Forensics, Linux Hardening |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=zaman-topu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Toufique's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaman-topu&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="180"/>
+  <br>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaman-topu&theme=radical&hide_border=true" alt="GitHub Streak" width="85%">
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaman-topu&theme=react-dark&bg_color=141321&hide_border=true" width="100%" alt="Activity Graph">
+</div>
+
+---
+
+### 📬 Connect With Me
+
+<div align="center">
+  <a href="https://www.bugmohol.com">
+    <img src="https://img.shields.io/badge/Bug_Mohol-Visit_Site-2ea44f?style=for-the-badge&logo=google-chrome" alt="Bug Mohol">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <small><i>Note: This profile represents a learner's journey. All activities performed are for educational purposes and within ethical boundaries.</i></small>
+</div>
