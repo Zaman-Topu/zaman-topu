@@ -48,7 +48,8 @@ _As a learner, I am constantly exploring and practicing with these technologies 
 | **Category** | **Tools & Technologies** |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **OS** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) |
+| **OS** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-1F8ACB?style=flat-square&logo=parrot-security&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white) ![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Tails](https://img.shields.io/badge/Tails-56347C?style=flat-square&logo=tor-browser&logoColor=white) ![Qubes OS](https://img.shields.io/badge/Qubes_OS-3874D8?style=flat-square&logo=qubes-os&logoColor=white) |
+
 | **Security Tools** | `Burp Suite` `Nmap` `Metasploit` `Wireshark` `SQLmap` |
 | **Interests** | Web App Pentesting, OSINT, Digital Forensics, Linux Hardening |
 
