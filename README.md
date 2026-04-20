@@ -1,57 +1,70 @@
 <div align="center">
 
-  <h1>Hi there, I'm Toufique <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-
-  <h3>High School Student | Aspiring Security Researcher | Ethical Hacker</h3>
-
+  <h1>Hi, I'm Toufique Zaman Topu 👋</h1>
+  
+  <h3>Security Researcher | Full-Stack Developer | Founder of Bug Mohol</h3>
+  
   <p>
-    <em>"Exploring the digital frontier, one packet at a time."</em>
+    <em>Building secure, scalable, and beautifully designed digital experiences.</em>
   </p>
 
   <p>
     <a href="https://www.bugmohol.com">
-      <img src="https://img.shields.io/badge/Website-Bug%20Mohol-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+      <img src="https://img.shields.io/badge/Website-Bug_Mohol-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Bug Mohol">
     </a>
     <a href="mailto:contact@bugmohol.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
 </div>
 
 ---
 
-### 🛡️ About Me
+### 👨‍💻 About Me
 
-I am a **High School Student** based in Bangladesh with a deep passion for **Cybersecurity** and **Information Security**. Unlike traditional developers, my focus lies in understanding how systems break to help secure them better. 
+I am a technology enthusiast and student (SSC '27) with a strong foundation in both **Cybersecurity** and **Software Development**. I believe that to build robust systems, one must deeply understand how they can be broken. My approach combines clean, minimalist engineering (inspired by Material Design) with rigorous security practices.
 
-I am currently in the **learning phase**, actively studying **Penetration Testing**, **Network Security**, and **Web Application Security**. I believe in **Responsible Disclosure** and adhering to strict ethical guidelines in all my research.
-
-- 🔭 I’m currently working on: **Building my foundational knowledge in Network Defense & OWASP Top 10.**
-- 🌱 I’m currently learning: **Python for Security, Bash Scripting, and Linux Administration.**
-- 🎯 Goals: **To become a Certified Penetration Tester and contribute to Open Source Security tools.**
-- ⚡ Fun fact: **I treat every error log as a clue to a puzzle.**
+- 🔭 **Currently Building:** Developing the **Kushtia Smart E-Seba App** and automating content workflows using AI.
+- 🌱 **Currently Learning:** Advanced Penetration Testing, Next.js architecture, and UI/UX design principles.
+- 🎯 **Career Goals:** To become a top-tier Certified Penetration Tester and architect secure, globally accessible digital platforms.
+- ⚡ **Fun Fact:** I treat every bug as a feature waiting to be understood, and every error log as a puzzle piece.
 
 ---
 
-### 🌐 Founder of Bug Mohol
+### 🚀 Ventures & Initiatives
 
-I founded and maintain **[Bug Mohol](https://www.bugmohol.com)**, a platform dedicated to demystifying cybersecurity.
+As an entrepreneur and community builder, I lead several projects aimed at global utility and information sharing:
 
-> **Mission:** To bridge the gap between complex security concepts and the general public through educational content, awareness posts, and ethical hacking resources in Bangla.
+- 🛡️ **[Bug Mohol](https://www.bugmohol.com):** CEO & Founder of a global platform catering to all users, dedicated to demystifying cybersecurity and providing ethical hacking resources.
+- 🕵️ **Bug Mohol Investigation Bureau (BIB):** A professional digital forensics and investigation initiative.
+- 📰 **Bongo Headlines:** A modern news media platform featuring automated RSS workflows.
+- 🛍️ **Balish BD:** A premium e-commerce venture focusing on quality lifestyle products.
 
 ---
 
-### 🛠️ Technical Arsenal (Learning & Practicing)
+### 🛠️ Technical Expertise
 
-_As a learner, I am constantly exploring and practicing with these technologies in controlled lab environments (CTFs, TryHackMe, HackTheBox)._
+*I focus on professional developer environments, prioritizing clean code, scalable architecture, and secure infrastructure.*
 
-| **Category** | **Tools & Technologies** |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Operating Systems** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-1F8ACB?style=flat-square&logo=parrot-security&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white) ![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Tails](https://img.shields.io/badge/Tails-56347C?style=flat-square&logo=tor-browser&logoColor=white) ![Qubes OS](https://img.shields.io/badge/Qubes_OS-3874D8?style=flat-square&logo=qubes-os&logoColor=white) |
-| **Security Tools** | `Burp Suite` · `Nmap` · `Metasploit` · `Wireshark` · `SQLmap` |
-| **Interests** | Web Application Pentesting · OSINT · Digital Forensics · Linux Hardening |
+#### 💻 Development & Design
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+#### 🔒 Security & Systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_NTLite-0078D6?style=flat-square&logo=windows&logoColor=white)
+`Burp Suite` · `Nmap` · `Metasploit` · `Digital Forensics` 
+
+#### ⚙️ Automation & Tools
+`Make.com` · `n8n` · `Git` · `GitHub`
 
 ---
 
@@ -59,33 +72,25 @@ _As a learner, I am constantly exploring and practicing with these technologies 
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=zaman-topu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Toufique's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaman-topu&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zaman-topu&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Toufique's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaman-topu&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages" height="180"/>
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaman-topu&theme=radical&hide_border=true" alt="GitHub Streak" width="85%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaman-topu&theme=transparent&hide_border=true" alt="GitHub Streak" width="85%">
 </div>
 
 ---
 
-### 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaman-topu&theme=react-dark&bg_color=141321&hide_border=true" width="100%" alt="Activity Graph">
-</div>
-
----
-
-### 📬 Connect With Me
+### 📬 Let's Connect
 
 <div align="center">
   <a href="https://www.bugmohol.com">
-    <img src="https://img.shields.io/badge/Bug_Mohol-Visit_Site-2ea44f?style=for-the-badge&logo=google-chrome" alt="Bug Mohol">
+    <img src="https://img.shields.io/badge/Bug_Mohol-Visit_Platform-0052FF?style=for-the-badge&logo=google-chrome" alt="Bug Mohol">
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <small><i>Note: This profile represents a learner's journey. All activities performed are for educational purposes and within ethical boundaries.</i></small>
+  <small><i>Note: This profile represents my professional journey and research. All security activities are performed for educational purposes and within ethical boundaries.</i></small>
 </div>
